@@ -5,8 +5,8 @@ author: "@kenniajin"
 highlighter: highlight.js
 job: 
 knit: slidify::knit2slides
-framework: deckjs
-theme: neon
+framework: io2012
+hitheme: tomorrow
 transition: fade
 mode: selfcontained
 subtitle: Tweets on Infectious Diseases
@@ -63,6 +63,7 @@ wordcloud(tweetmalaria, scale=c(2,0.5), min.freq = 50 ,
 - Visit the app [Here](http://kenniajin.shinyapps.io/twitterSayDisease/) for **more**
 
 --- .class #id 
+
 ## Where is the healthy Tweet!!
 - [Here](http://kenniajin.shinyapps.io/twitterSayDisease/) is the app 
 - The app pulls sources the data from the [Tweet Mapping Repo](https://github.com/Keniajin/TweetMapping/tree/master/data/Infectious%20Disease)
