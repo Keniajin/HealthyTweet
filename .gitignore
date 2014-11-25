@@ -1,0 +1,13 @@
+.cache
+.cache/
+.git
+.Rproj.user
+.git/
+shiny_app/
+shiny_app.Rproj
+.Rhistory
+assets/
+libraries/
+shinyapps/
+
+
