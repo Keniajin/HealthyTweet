@@ -5,10 +5,12 @@ author: "@kenniajin"
 highlighter: highlight.js
 job: 
 knit: slidify::knit2slides
+framework: deckjs
+theme: neon
+transition: fade
 mode: selfcontained
-hitheme: tomorrow
 subtitle: Tweets on Infectious Diseases
-framework: io2012
+
 widgets: []
 ---
 
